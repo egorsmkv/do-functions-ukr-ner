@@ -1,5 +1,5 @@
 packages:
   - name: default
     actions:
-      - name: joke
+      - name: ukr-ner
         runtime: 'python:default'
